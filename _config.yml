@@ -12,10 +12,10 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  Andrew:
     name: Andrew
     display_name: gamer456148
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatar.png'
     twitter: https://twitter.com/gamer456148
     description: "Passionate about the things I write about"
 
