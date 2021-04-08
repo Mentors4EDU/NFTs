@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Welcome to the Collective"
 author: Andrew
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
