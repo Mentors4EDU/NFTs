@@ -19,8 +19,6 @@ comments: true
 
 <p> If you like what we are doing, a good way to support us is to <a target="_blank" href="https://etherstone.us1.list-manage.com/subscribe/post?u=e9f19d46d2992e2f66c22ce6b&id=cd7af70c81">subscribe <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
 </div>
 </div>
 </div>
