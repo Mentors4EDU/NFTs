@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the Collective"
 author: Andrew
-categories: [ Jekyll, tutorial ]
+categories: [announcements]
 image: assets/images/1.jpg
 
 ---
