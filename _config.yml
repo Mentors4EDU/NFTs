@@ -5,7 +5,6 @@ description: "The Next Big NFT Collective"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /NFTs
-# google_analytics: ''
 disqus: 'the-nft-collective'
 mailchimp-list: 'https://etherstone.us1.list-manage.com/subscribe/post?u=e9f19d46d2992e2f66c22ce6b&amp;id=cd7af70c81'
 include: ["_pages"]
