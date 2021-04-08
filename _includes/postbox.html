@@ -16,6 +16,15 @@
                 {% endif %}
             </a>
         </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <div class="mb-2 mt-2 font-weight-normal">
+                </div>
+                {% endif %}
+            </h2>
+            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+        </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 {% if post.author %}
